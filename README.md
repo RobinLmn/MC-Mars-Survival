@@ -1,5 +1,5 @@
 # MC-Mars-Survival
 
-Follow me on Twitter: @robin.leman@gmail.com
+Follow me on Twitter: @robinleman
 
 # WIP
