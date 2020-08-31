@@ -1,2 +1,5 @@
 # MC-Mars-Survival
-Narrative survival game in a voxel martian world
+
+Follow me on Twitter: @robin.leman@gmail.com
+
+# WIP
