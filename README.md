@@ -1,5 +1,4 @@
 # MC-Mars-Survival
 
-Follow me on Twitter: @robinleman
-
+Prototype: https://robinlmn.itch.io/mars-survival
 # WIP
